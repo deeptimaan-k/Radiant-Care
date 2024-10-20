@@ -57,7 +57,10 @@ JWT_SECRET=<your_jwt_secret>
 npm start
 ```
 6. Access the application in your browser at ```http://localhost:5000.```
+
+
 ##Usage
+
 Register a new user and log in.
 Navigate through the application to manage patients, appointments, and medical records.
 Admin users have additional privileges to manage the application settings and view analytics.
