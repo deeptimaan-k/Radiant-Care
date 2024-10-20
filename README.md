@@ -59,7 +59,7 @@ npm start
 6. Access the application in your browser at ```http://localhost:5000.```
 
 
-##Usage
+## Usage
 
 Register a new user and log in.
 Navigate through the application to manage patients, appointments, and medical records.
@@ -83,10 +83,10 @@ Push to the branch:
 git push origin feature/AmazingFeature
 Open a Pull Request.
 ```
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 Thanks to the contributors and the community for their support.
 Inspired by the need for better healthcare management solutions.
 Customization Tips
